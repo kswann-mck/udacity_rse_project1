@@ -7,6 +7,7 @@ models in them, as well as two instances of a four wheeled robot.
 Installation:
 
 - Install gazebo: [http://gazebosim.org/tutorials?tut=install_ubuntu](http://gazebosim.org/tutorials?tut=install_ubuntu)
+- `sudo apt-get update && sudo apt-get upgrade -y`
 - Clone this repository: `git clone https://github.com/kswann-mck/udacity_rse_project1.git`
 - `cd udacity_rse_project1`
 - `mkdir build && cd build`
